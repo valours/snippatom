@@ -1,0 +1,6 @@
+
+#snippets for Observable
+'.source.ts':
+  'store.select':
+    'prefix':'ss'
+    'body':'this.store.select(${1})'
