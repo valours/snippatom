@@ -4,6 +4,6 @@
   'console.group()':
     'prefix': 'cg'
     'body':"""
-    console.group('$(1)')
+    console.group('${1}')
     console.groupEnd()
     """
