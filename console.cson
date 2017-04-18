@@ -1,9 +1,9 @@
-
 #snippets for console
 '.source.ts':
   'console.group()':
     'prefix': 'cg'
     'body':"""
     console.group('${1}')
+    ${2}
     console.groupEnd()
     """
